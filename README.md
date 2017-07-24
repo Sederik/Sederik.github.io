@@ -1,2 +1,2 @@
 # Sederik.github.io
-front end juniot
+front end junior
